@@ -1,3 +1,4 @@
 editing this locally for the merge homework
 eggs
 milk
+adding this line remotely in github for merge exercise
